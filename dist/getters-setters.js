@@ -27,6 +27,7 @@
 // console.log(myAccount);
 // myAccount.setDeposit = 20;
 // console.log(myAccount);
+// type class and discount product bill  in typescript
 class shop {
     constructor(id, bill, name) {
         this.id = id;
